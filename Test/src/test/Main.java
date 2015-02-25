@@ -8,6 +8,8 @@ public class Main {
 		createRDF pdf = new createRDF();
 		pdf.create();
 		System.out.println("Hello3");
+		System.out.println("Hello4");
+		System.out.println("Hello5");
 		
 	}
 
